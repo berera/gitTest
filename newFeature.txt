@@ -1,1 +1,2 @@
-zmiana na pliku master
+zmiana na newFeature
+
